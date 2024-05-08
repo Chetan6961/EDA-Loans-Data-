@@ -4,7 +4,7 @@
 This project analyzes a dataset containing information about loans. It aims to explore patterns, trends, and relationships within the data to derive insights that could inform decision-making in the lending domain.
 
 ## Dataset
-The dataset used in this project is sourced from [Excel]. It consists of [2500] of rows and [15] of columns, with each row representing a unique loan instance and each column representing a different attribute or feature of the loan.
+The dataset used in this project is sourced from Excel. It consists of 2500 of rows and 15 of columns, with each row representing a unique loan instance and each column representing a different attribute or feature of the loan.
 
 ## Project Structure
 The project is structured as follows:
