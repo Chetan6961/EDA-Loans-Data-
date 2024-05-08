@@ -19,6 +19,15 @@ The analysis comprises several stages:
 - Statistical analysis: Hypothesis testing, regression analysis, and predictive modeling (if applicable).
 - Interpretation and insights: Drawing conclusions and recommendations based on the analysis.
 
+## Dependencies
+This project requires Python 3.x and the following libraries:
+- Pandas
+- NumPy
+- Matplotlib
+- datetime
+- Seaborn
+
+
 ## Contributing
 Contributions to this project are welcome! If you have suggestions for improvements, new features, or bug fixes, please feel free to open an issue or submit a pull request.
 
